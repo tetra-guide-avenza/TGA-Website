@@ -56,7 +56,7 @@ const Footer = () => {
                                 />
                             </motion.a>
                             <motion.a
-                                href="https://www.linkedin.com/in/tetra-guide-avenza-tga-350a03395"
+                                href="https://www.linkedin.com/in/tetra-guide-avenza-company-350a03395/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="w-10 h-10 rounded-lg glass-light flex items-center justify-center hover:border-blue-500/50 border border-transparent transition-all"
@@ -104,5 +104,6 @@ const Footer = () => {
 };
 
 export default Footer;
+
 
 
