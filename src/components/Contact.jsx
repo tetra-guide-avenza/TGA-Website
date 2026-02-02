@@ -5,7 +5,7 @@ const Contact = () => {
     const containerRef = useRef(null);
     const isInView = useInView(containerRef, { once: false, margin: "-100px" });
 
-    const email = 'tga.tetra.guide.avenza@gmail.com';
+    const email = 'info.tga.official@gmail.com';
 
     const socials = [
         {
@@ -100,3 +100,4 @@ const Contact = () => {
 };
 
 export default Contact;
+
